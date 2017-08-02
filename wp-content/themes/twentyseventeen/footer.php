@@ -15,7 +15,7 @@
 ?>
 
 		</div><!-- #content -->
-        <h4>test for another Vm</h4>
+        <h4>Final test</h4>
 		<footer id="colophon" class="site-footer" role="contentinfo" style="font-weight: 600;">
 			<div class="wrap">
 				<?php
