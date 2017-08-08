@@ -15,7 +15,7 @@
 ?>
 
 		</div><!-- #content -->
-        <h4>Final test today---- 08/08/2017</h4>
+        <h4>Date : 08/08/2017 Nimisha</h4>
 		<footer id="colophon" class="site-footer" role="contentinfo" style="font-weight: 600;">
 			<div class="wrap">
 				<?php
